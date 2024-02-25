@@ -1,3 +1,3 @@
 # -GAME-
-ROCK PAPER SISSOR GAME USIG JAVASCRIPT
-AUTHOR - GUDDU KUMAR
+Rock paper sissor game using HTML CSS and JavaScript 
+AUTHOR - Guddu Kumar
